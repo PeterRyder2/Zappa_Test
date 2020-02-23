@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "profile_name": null,
+        "project_name": "zappa-test",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-f7omefam3",
+        "aws_region": "us-east-1"
+
+    }
+}
